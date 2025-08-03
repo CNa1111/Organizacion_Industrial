@@ -22,10 +22,17 @@
 # Herramientas comunes en Gestión de Calidad
 ## Herramienta	y pára que sirven: 
 Diagrama de Ishikawa -->	Analizar causas de un problema
+
 Diagrama de Pareto	--> Priorizar problemas según su impacto
+
 Histogramas -->	Ver distribución de datos
+
 Hojas de verificación -->	Recolectar datos de manera estructurada
+
 Gráficos de control	--> Evaluar la estabilidad de un proceso
+
 5S	--> Organización del lugar de trabajo
+
 Six Sigma -->	Reducción de variabilidad y mejora de procesos
+
 Benchmarking	--> Compararse con los mejores del mercado
