@@ -15,11 +15,11 @@ Aplicar herramientas como:
 * Método de las 5S
 * Lean Manufacturing
 * Buscar cuellos de botella o desperdicios
-4. Gestión del talento humano
+## 4. Gestión del talento humano
 * Dimensionar la cantidad de personal necesario
 * Diseñar puestos de trabajo (ergonomía, eficiencia)
 * Establecer criterios de evaluación y motivación
-5. Indicadores de desempeño
+## 5. Indicadores de desempeño
 * Diseñar y controlar indicadores clave:
 * Eficiencia
 * Productividad
