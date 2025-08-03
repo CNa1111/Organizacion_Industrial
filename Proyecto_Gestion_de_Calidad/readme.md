@@ -36,3 +36,12 @@ Gráficos de control	--> Evaluar la estabilidad de un proceso
 Six Sigma -->	Reducción de variabilidad y mejora de procesos
 
 Benchmarking	--> Compararse con los mejores del mercado
+
+
+Proyecto futuro... puedo redactar un problema y buscar las causas con ishikawa, antes utilizar pareto para elegir por cual empezar, graficar en EXCEL, aplicar mejoras, correcion y sacar conclusion con KPI cuanto se mejoro. 
+
+Proyecto 2, aplicar manufactura Lean, en alguna problemativa, y aplicar las 5 S, mostrar un antes y un despues de un espacio desorganizado, puede ser el ejemplo del tornillo de un electricista
+
+Proyecto 3, puede ser mejoras de un proceso de produccion usando carta de control , sacar valores y tomar decisiones, aplicar un poco de estadistica.
+
+P
